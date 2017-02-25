@@ -5,4 +5,3 @@ Create bank accounts for multiple users (database stored in a dictionary) then d
 TO DO LIST :
 - Save/load accounts database to/from a JSON file. Or maybe an SQLite db.
 - Clear screen between each menu occurence (+ eventually remove sleep() calls)
-- Add error handling for non numeric inputs during deposit/withdraw
